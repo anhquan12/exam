@@ -1,0 +1,14 @@
+[
+{
+    "id": 1,
+    "name": "Blackberry Passport Silver Edition",
+    "price": "50000",
+    "quantity": "1"
+},
+{
+    "id": 2,
+    "name": "iphone X",
+    "price": "2000",
+    "quantity": "10"
+}
+]
