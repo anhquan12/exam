@@ -22,9 +22,9 @@ $(function() {
     });
     $('#add-product').on('click', function(){
     	var temp = {
-    		name: $name.val();
-    		price: $price.val();
-    		quantity: $quantity.val();
+    		name: $name.val(),
+    		price: $price.val(),
+    		quantity: $quantity.val()
     	};
     	$.ajax({
     		type: 'POST', 
